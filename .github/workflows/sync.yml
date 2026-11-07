@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: breakout-prop-discount-codes
+  HF_NAMESPACE: breakoutprop
+  HF_REPO_NAME: breakout-prop-deals
   FIRM_SLUG: breakout-prop
   DEALSTORE_ID: 151
   FIRM_NAME: Breakout Prop
