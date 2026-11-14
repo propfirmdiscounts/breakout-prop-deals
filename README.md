@@ -1,9 +1,9 @@
 # Breakout Prop - Discount Codes & Deal History
 
-As of 2026-07-27, the verified Breakout Prop discount code is 3GVKFT — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: 3GVKFT
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-07-27
 - Trustpilot: 4.6/5 (1281 reviews)
@@ -25,7 +25,7 @@ As of 2026-07-27, the verified Breakout Prop discount code is 3GVKFT — up to 5
 
 **What is the Breakout Prop discount code?**
 
-3GVKFT. It is verified by PropFirmDiscount.com and takes up to 5% off Breakout Prop challenges and accounts.
+3GVKFT. It is verified by PropFirmDiscount.com and takes 5% off Breakout Prop challenges and accounts.
 
 **Does the Breakout Prop discount code expire?**
 
@@ -45,22 +45,22 @@ Total deals tracked: **6**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-07-27 | 24% Off Evaluation Accounts Over $10K | 24% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) |
-| 2026-07-03 | 20% Discount On Initial Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-off-first-evaluation/) |
-| 2026-05-23 | Up to 42% Off All Plans and Accounts ($5K to $200K) | 42% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-42-off-deal/) |
+| 2026-07-27 | Breakout Prop: 24% Off Evaluation Accounts Over $10K | 24% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) |
+| 2026-07-03 | Breakout Prop: 20% Discount On Initial Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-off-first-evaluation/) |
+| 2026-05-23 | Breakout Prop: Up to 42% Off All Plans and Accounts ($5K to $200K) | 42% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-42-off-deal/) |
 
 ### 2025 (1 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-02-05 | Flash Deal: 20% OFF Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-flash-deal-20-percent-off/) |
+| 2025-02-05 | Breakout Prop: Flash Deal: 20% OFF Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-flash-deal-20-percent-off/) |
 
 ### 2024 (2 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2024-03-05 | iOS Launch: 20% OFF Challenge Pricing (24 Hours Only) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-percent-off-ios-launch-celebration/) |
-| 2024-01-23 | Deal: 20% Off All Crypto Plans Until Feb 1st | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-percent-off-crypto-plans/) |
+| 2024-03-05 | Breakout Prop: iOS Launch: 20% OFF Challenge Pricing (24 Hours Only) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-percent-off-ios-launch-celebration/) |
+| 2024-01-23 | Breakout Prop: Deal: 20% Off All Crypto Plans Until Feb 1st | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-percent-off-crypto-plans/) |
 
 ---
 
