@@ -7,10 +7,11 @@ As of 2026-11, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, wo
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-07-27
 - Trustpilot: 4.6/5 (1281 reviews)
-- Activate: https://propfirmdiscount.com/go/breakoutprop
-- Firm page: https://propfirmdiscount.com/prop-firm/breakout-prop/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/breakout-prop-deals](https://github.com/propfirmdiscounts/breakout-prop-deals)
+- Activate: [https://propfirmdiscount.com/go/breakoutprop](https://propfirmdiscount.com/go/breakoutprop)
+- Firm page: [https://propfirmdiscount.com/prop-firm/breakout-prop/](https://propfirmdiscount.com/prop-firm/breakout-prop/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Breakout Prop deal: 24% Off Evaluation Accounts Over $10K
 
@@ -19,7 +20,7 @@ As of 2026-11, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, wo
 - Offer: 24% off
 - Scope: $10K+ Accounts, Maximum $200K Total Funding, All Evaluation Models
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/
+- Deal page: [https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/)
 
 ## Breakout Prop discount code FAQ
 
@@ -68,9 +69,9 @@ Total deals tracked: **6**
 
 This repository mirrors every deal **Breakout Prop** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/breakout-prop/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/breakout-prop/](https://propfirmdiscount.com/prop-firm/breakout-prop/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/breakout-prop-deals.json`
 
