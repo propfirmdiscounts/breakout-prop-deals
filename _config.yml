@@ -1,0 +1,6 @@
+title: "Breakout Prop - Discount Codes & Deal History"
+description: "As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes."
+url: "https://propfirmdiscounts.github.io"
+baseurl: "/breakout-prop-deals"
+plugins:
+  - jekyll-seo-tag
