@@ -1,17 +1,17 @@
 # Breakout Prop - Discount Codes & Deal History
 
-As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, which can be applied on the checkout page anytime. The newest is "24% Off Evaluation Accounts Over $10K".
 
 - Code: 3GVKFT
 - Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-07-27
 - Trustpilot: 4.6/5 (1281 reviews)
-- GitHub repository: [https://github.com/propfirmdiscounts/breakout-prop-deals](https://github.com/propfirmdiscounts/breakout-prop-deals)
-- Activate: [https://propfirmdiscount.com/go/breakoutprop](https://propfirmdiscount.com/go/breakoutprop)
-- Firm page: [https://propfirmdiscount.com/prop-firm/breakout-prop/](https://propfirmdiscount.com/prop-firm/breakout-prop/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Breakout Prop Deals Repository](https://github.com/propfirmdiscounts/breakout-prop-deals)
+- Activate: [Activate Breakout Prop Discount Code](https://propfirmdiscount.com/go/breakoutprop)
+- Firm page: [Breakout Prop Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/breakout-prop/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Breakout Prop API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Breakout Prop deal: 24% Off Evaluation Accounts Over $10K
 
@@ -20,7 +20,7 @@ As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% O
 - Offer: 24% off
 - Scope: $10K+ Accounts, Maximum $200K Total Funding, All Evaluation Models
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/)
+- Deal page: [Breakout Prop Deal Page](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/)
 
 ## Breakout Prop discount code FAQ
 
@@ -69,9 +69,9 @@ Total deals tracked: **6**
 
 This repository mirrors every deal **Breakout Prop** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/breakout-prop/](https://propfirmdiscount.com/prop-firm/breakout-prop/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Breakout Prop Profile](https://propfirmdiscount.com/prop-firm/breakout-prop/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/breakout-prop-deals.json`
 
@@ -114,4 +114,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
