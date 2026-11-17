@@ -1,4 +1,4 @@
-# Breakout Prop Discount Codes
+# Breakout Prop Discount Code & Deals History
 
 This dataset tracks historical deal observations for Breakout Prop from PropFirmDiscount.com.
 

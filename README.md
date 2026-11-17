@@ -1,4 +1,4 @@
-# Breakout Prop Discount Code & Deal History
+# Breakout Prop Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, which can be applied on the checkout page anytime. The newest is "24% Off Evaluation Accounts Over $10K".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% O
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-07-27
 - Trustpilot: [4.6/5 (1303 reviews)](https://www.trustpilot.com/review/breakoutprop.com)
-- GitHub repository: [Breakout Prop Deals Repository](https://github.com/propfirmdiscounts/breakout-prop-deals)
+- GitHub repository: [Breakout Prop Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/breakout-prop-deals)
 - Activate: [Activate Breakout Prop Discount Code](https://propfirmdiscount.com/go/breakoutprop)
 - Firm page: [Breakout Prop Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/breakout-prop/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -22,7 +22,7 @@ As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% O
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Breakout Prop Deal Page](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/)
 
-## Breakout Prop Discount Code & Deals FAQ
+## Breakout Prop Discount Code & Deals History FAQ
 
 **What is the Breakout Prop discount code?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Breakout Prop Deal History
+## Breakout Prop Deals History
 
 Total deals tracked: **6**
 
@@ -65,7 +65,7 @@ Total deals tracked: **6**
 
 ---
 
-## About the Breakout Prop Deals Dataset
+## About the Breakout Prop Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Breakout Prop** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -73,7 +73,7 @@ This repository mirrors every deal **Breakout Prop** has published on PropFirmDi
 - Prop firm profile: [Breakout Prop Profile](https://propfirmdiscount.com/prop-firm/breakout-prop/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Breakout Prop Deal Dataset: Field Definitions
+## Breakout Prop Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
