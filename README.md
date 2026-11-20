@@ -6,7 +6,7 @@ As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% O
 - Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-07-27
-- Trustpilot: [4.6/5 (1303 reviews)](https://www.trustpilot.com/review/breakoutprop.com)
+- Trustpilot: [4.6/5 (1314 reviews)](https://www.trustpilot.com/review/breakoutprop.com)
 - GitHub repository: [Breakout Prop Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/breakout-prop-deals)
 - Activate: [Activate Breakout Prop Discount Code](https://propfirmdiscount.com/go/breakoutprop)
 - Firm page: [Breakout Prop Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/breakout-prop/)
