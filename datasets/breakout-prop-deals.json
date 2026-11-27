@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13504,
+    "title": "25% Off Everything Plus Halved Fees",
+    "offer_type": "coupon",
+    "discount_value": "25%",
+    "scope": [
+      "Entire Cart (Evaluations And The Optional 90/10 Profit Split Upgrade); Lower Trading Fees Apply Automatically To Turbo, Pro And Classic Accounts"
+    ],
+    "date_published": "2026-11-27",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-27",
+    "post_url": "https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-25-off-entire-cart/",
+    "prop_firm": "Breakout Prop",
+    "prop_firm_slug": "breakout-prop",
+    "standing_code": "3GVKFT",
+    "standing_discount": "25%",
+    "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/"
+  },
+  {
     "deal_id": 12373,
     "title": "24% Off Evaluation Accounts Over $10K",
     "offer_type": "coupon",
@@ -15,7 +35,7 @@
     "prop_firm": "Breakout Prop",
     "prop_firm_slug": "breakout-prop",
     "standing_code": "3GVKFT",
-    "standing_discount": "5%",
+    "standing_discount": "25%",
     "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/"
   },
@@ -35,7 +55,7 @@
     "prop_firm": "Breakout Prop",
     "prop_firm_slug": "breakout-prop",
     "standing_code": "3GVKFT",
-    "standing_discount": "5%",
+    "standing_discount": "25%",
     "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/"
   },
@@ -55,7 +75,7 @@
     "prop_firm": "Breakout Prop",
     "prop_firm_slug": "breakout-prop",
     "standing_code": "3GVKFT",
-    "standing_discount": "5%",
+    "standing_discount": "25%",
     "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/"
   },
@@ -75,7 +95,7 @@
     "prop_firm": "Breakout Prop",
     "prop_firm_slug": "breakout-prop",
     "standing_code": "3GVKFT",
-    "standing_discount": "5%",
+    "standing_discount": "25%",
     "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/"
   },
@@ -95,7 +115,7 @@
     "prop_firm": "Breakout Prop",
     "prop_firm_slug": "breakout-prop",
     "standing_code": "3GVKFT",
-    "standing_discount": "5%",
+    "standing_discount": "25%",
     "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/"
   },
@@ -115,7 +135,7 @@
     "prop_firm": "Breakout Prop",
     "prop_firm_slug": "breakout-prop",
     "standing_code": "3GVKFT",
-    "standing_discount": "5%",
+    "standing_discount": "25%",
     "activation_link": "https://propfirmdiscount.com/go/breakoutprop",
     "firm_page_url": "https://propfirmdiscount.com/prop-firm/breakout-prop/"
   }

@@ -1,32 +1,32 @@
 # Breakout Prop Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 5% OFF, which can be applied on the checkout page anytime. The newest is "24% Off Evaluation Accounts Over $10K".
+As of November 2026, the verified Breakout Prop discount code is 3GVKFT — 25% OFF, which can be applied on the checkout page anytime. The newest is "25% Off Everything Plus Halved Fees".
 
 - Code: 3GVKFT
-- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-07-27
-- Trustpilot: [4.7/5 (1329 reviews)](https://www.trustpilot.com/review/breakoutprop.com)
+- Last deal published: 2026-11-27
+- Trustpilot: [4.7/5 (1334 reviews)](https://www.trustpilot.com/review/breakoutprop.com)
 - GitHub repository: [Breakout Prop Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/breakout-prop-deals)
 - Activate: [Activate Breakout Prop Discount Code](https://propfirmdiscount.com/go/breakoutprop)
 - Firm page: [Breakout Prop Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/breakout-prop/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Breakout Prop API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Breakout Prop deal: 24% Off Evaluation Accounts Over $10K
+## Latest Breakout Prop deal: 25% Off Everything Plus Halved Fees
 
-- Published: 2026-07-27
-- Offer ends: Ended
-- Offer: 24% off
-- Scope: $10K+ Accounts, Maximum $200K Total Funding, All Evaluation Models
+- Published: 2026-11-27
+- Offer ends: Limited time
+- Offer: 25% off
+- Scope: Entire Cart (Evaluations And The Optional 90/10 Profit Split Upgrade); Lower Trading Fees Apply Automatically To Turbo, Pro And Classic Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Breakout Prop Deal Page](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/)
+- Deal page: [Breakout Prop Deal Page](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-25-off-entire-cart/)
 
 ## Breakout Prop Discount Code & Deals History FAQ
 
 **What is the Breakout Prop discount code?**
 
-3GVKFT. It is verified by PropFirmDiscount.com and takes 5% off Breakout Prop challenges and accounts.
+3GVKFT. It is verified by PropFirmDiscount.com and takes 25% off Breakout Prop challenges and accounts.
 
 **Does the Breakout Prop discount code expire?**
 
@@ -34,18 +34,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Breakout Prop deal?**
 
-**24% Off Evaluation Accounts Over $10K** — published 2026-07-27. Offer ends: Ended. The offer is 24% off.
+**25% Off Everything Plus Halved Fees** — published 2026-11-27. Offer ends: Limited time. The offer is 25% off.
 
 ---
 
 ## Breakout Prop Deals History
 
-Total deals tracked: **6**
+Total deals tracked: **7**
 
-### 2026 (3 deals)
+### 2026 (4 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-27 | Breakout Prop: 25% Off Everything Plus Halved Fees | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-25-off-entire-cart/) |
 | 2026-07-27 | Breakout Prop: 24% Off Evaluation Accounts Over $10K | 24% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-24-percent-off-evaluations/) |
 | 2026-07-03 | Breakout Prop: 20% Discount On Initial Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-20-off-first-evaluation/) |
 | 2026-05-23 | Breakout Prop: Up to 42% Off All Plans and Accounts ($5K to $200K) | 42% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/breakout-prop/breakout-prop-42-off-deal/) |
